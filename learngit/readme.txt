@@ -4,5 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 Create a new branch is quick and simple.
 Merge with no diff.
+Test 101 bug fixed.
 
 
